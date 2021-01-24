@@ -1,6 +1,6 @@
-## WebSite Ping API
+## TheHostingBot API
 
-Le but de cet API est de pouvoir ping in siteweb a travers le lien de l'application.
+Le but de cet API est de pouvoir vérifier les clients possedant une licence.
 
 ## Mise en place
 
